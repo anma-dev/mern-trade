@@ -1,6 +1,6 @@
 # tradingcompass-MERN-optiondataVisualization-app
 
-# Welcome to Trading Compass
+# Welcome to Trading Compass👏
 
 Our goal is help traders providing rich data via Trading Compass. We created trading compass for the traders who want to make use of data for daily trading. This is a continuous effort to make it a great tool for everyone.
 
